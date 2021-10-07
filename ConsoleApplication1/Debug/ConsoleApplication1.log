@@ -1,0 +1,44 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\OpenCV\Include\opencv2\core\mat.hpp(1965,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\OpenCV\Include\opencv2\core\persistence.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\OpenCV\Include\opencv2\core\utility.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\vector.h(56,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\vector.h(71,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(63,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(67,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(69,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,78): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,57): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(111,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(118,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,40): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KMU\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,32): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\KMU\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
